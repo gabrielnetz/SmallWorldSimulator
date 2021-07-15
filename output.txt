@@ -1,0 +1,284 @@
+Banish Skull Meister ---> Reveal Noctovision Dragon ---> Add Skull Meister
+Banish Skull Meister ---> Reveal Noctovision Dragon ---> Add Effect Veiler
+Banish Skull Meister ---> Reveal Noctovision Dragon ---> Add White Dragon Wyverburster
+Banish Skull Meister ---> Reveal Noctovision Dragon ---> Add Starliege Seyfert
+Banish Skull Meister ---> Reveal Noctovision Dragon ---> Add Ash Blossom & Joyous Spring
+Banish Skull Meister ---> Reveal Chaos Dragon Levianeer ---> Add Skull Meister
+Banish Skull Meister ---> Reveal Chaos Dragon Levianeer ---> Add Effect Veiler
+Banish Skull Meister ---> Reveal Chaos Dragon Levianeer ---> Add White Dragon Wyverburster
+Banish Skull Meister ---> Reveal Chaos Dragon Levianeer ---> Add Nibiru, the Primal Being
+Banish Skull Meister ---> Reveal Fantastical Dragon Phantazmay ---> Add Skull Meister
+Banish Skull Meister ---> Reveal Fantastical Dragon Phantazmay ---> Add Starliege Seyfert
+Banish Skull Meister ---> Reveal Fantastical Dragon Phantazmay ---> Add Ash Blossom & Joyous Spring
+Banish Skull Meister ---> Reveal Starliege Seyfert ---> Add Skull Meister
+Banish Skull Meister ---> Reveal Starliege Seyfert ---> Add Noctovision Dragon
+Banish Skull Meister ---> Reveal Starliege Seyfert ---> Add Fantastical Dragon Phantazmay
+Banish Skull Meister ---> Reveal Starliege Seyfert ---> Add Nibiru, the Primal Being
+Banish Skull Meister ---> Reveal Starliege Seyfert ---> Add Absorouter Dragon
+Banish Skull Meister ---> Reveal Rokket Synchron ---> Add Skull Meister
+Banish Skull Meister ---> Reveal Rokket Synchron ---> Add White Dragon Wyverburster
+Banish Skull Meister ---> Reveal Rokket Synchron ---> Add Ash Blossom & Joyous Spring
+Banish Skull Meister ---> Reveal Absorouter Dragon ---> Add Skull Meister
+Banish Skull Meister ---> Reveal Absorouter Dragon ---> Add White Dragon Wyverburster
+Banish Skull Meister ---> Reveal Absorouter Dragon ---> Add Starliege Seyfert
+Banish Noctovision Dragon ---> Reveal Skull Meister ---> Add Noctovision Dragon
+Banish Noctovision Dragon ---> Reveal Skull Meister ---> Add Chaos Dragon Levianeer
+Banish Noctovision Dragon ---> Reveal Skull Meister ---> Add Fantastical Dragon Phantazmay
+Banish Noctovision Dragon ---> Reveal Skull Meister ---> Add Starliege Seyfert
+Banish Noctovision Dragon ---> Reveal Skull Meister ---> Add Rokket Synchron
+Banish Noctovision Dragon ---> Reveal Skull Meister ---> Add Absorouter Dragon
+Banish Noctovision Dragon ---> Reveal Effect Veiler ---> Add Noctovision Dragon
+Banish Noctovision Dragon ---> Reveal Effect Veiler ---> Add Chaos Dragon Levianeer
+Banish Noctovision Dragon ---> Reveal Effect Veiler ---> Add White Dragon Wyverburster
+Banish Noctovision Dragon ---> Reveal Effect Veiler ---> Add Rokket Recharger
+Banish Noctovision Dragon ---> Reveal Effect Veiler ---> Add Nibiru, the Primal Being
+Banish Noctovision Dragon ---> Reveal Effect Veiler ---> Add Ash Blossom & Joyous Spring
+Banish Noctovision Dragon ---> Reveal White Dragon Wyverburster ---> Add Noctovision Dragon
+Banish Noctovision Dragon ---> Reveal White Dragon Wyverburster ---> Add Chaos Dragon Levianeer
+Banish Noctovision Dragon ---> Reveal White Dragon Wyverburster ---> Add Effect Veiler
+Banish Noctovision Dragon ---> Reveal White Dragon Wyverburster ---> Add Rokket Synchron
+Banish Noctovision Dragon ---> Reveal White Dragon Wyverburster ---> Add Nibiru, the Primal Being
+Banish Noctovision Dragon ---> Reveal White Dragon Wyverburster ---> Add Absorouter Dragon
+Banish Noctovision Dragon ---> Reveal White Dragon Wyverburster ---> Add Ash Blossom & Joyous Spring
+Banish Noctovision Dragon ---> Reveal Starliege Seyfert ---> Add Skull Meister
+Banish Noctovision Dragon ---> Reveal Starliege Seyfert ---> Add Noctovision Dragon
+Banish Noctovision Dragon ---> Reveal Starliege Seyfert ---> Add Fantastical Dragon Phantazmay
+Banish Noctovision Dragon ---> Reveal Starliege Seyfert ---> Add Nibiru, the Primal Being
+Banish Noctovision Dragon ---> Reveal Starliege Seyfert ---> Add Absorouter Dragon
+Banish Noctovision Dragon ---> Reveal Ash Blossom & Joyous Spring ---> Add Noctovision Dragon
+Banish Noctovision Dragon ---> Reveal Ash Blossom & Joyous Spring ---> Add Fantastical Dragon Phantazmay
+Banish Noctovision Dragon ---> Reveal Ash Blossom & Joyous Spring ---> Add Effect Veiler
+Banish Noctovision Dragon ---> Reveal Ash Blossom & Joyous Spring ---> Add White Dragon Wyverburster
+Banish Noctovision Dragon ---> Reveal Ash Blossom & Joyous Spring ---> Add Chamber Dragonmaid
+Banish Noctovision Dragon ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Synchron
+Banish Noctovision Dragon ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Recharger
+Banish Chaos Dragon Levianeer ---> Reveal Skull Meister ---> Add Noctovision Dragon
+Banish Chaos Dragon Levianeer ---> Reveal Skull Meister ---> Add Chaos Dragon Levianeer
+Banish Chaos Dragon Levianeer ---> Reveal Skull Meister ---> Add Fantastical Dragon Phantazmay
+Banish Chaos Dragon Levianeer ---> Reveal Skull Meister ---> Add Starliege Seyfert
+Banish Chaos Dragon Levianeer ---> Reveal Skull Meister ---> Add Rokket Synchron
+Banish Chaos Dragon Levianeer ---> Reveal Skull Meister ---> Add Absorouter Dragon
+Banish Chaos Dragon Levianeer ---> Reveal Effect Veiler ---> Add Noctovision Dragon
+Banish Chaos Dragon Levianeer ---> Reveal Effect Veiler ---> Add Chaos Dragon Levianeer
+Banish Chaos Dragon Levianeer ---> Reveal Effect Veiler ---> Add White Dragon Wyverburster
+Banish Chaos Dragon Levianeer ---> Reveal Effect Veiler ---> Add Rokket Recharger
+Banish Chaos Dragon Levianeer ---> Reveal Effect Veiler ---> Add Nibiru, the Primal Being
+Banish Chaos Dragon Levianeer ---> Reveal Effect Veiler ---> Add Ash Blossom & Joyous Spring
+Banish Chaos Dragon Levianeer ---> Reveal White Dragon Wyverburster ---> Add Noctovision Dragon
+Banish Chaos Dragon Levianeer ---> Reveal White Dragon Wyverburster ---> Add Chaos Dragon Levianeer
+Banish Chaos Dragon Levianeer ---> Reveal White Dragon Wyverburster ---> Add Effect Veiler
+Banish Chaos Dragon Levianeer ---> Reveal White Dragon Wyverburster ---> Add Rokket Synchron
+Banish Chaos Dragon Levianeer ---> Reveal White Dragon Wyverburster ---> Add Nibiru, the Primal Being
+Banish Chaos Dragon Levianeer ---> Reveal White Dragon Wyverburster ---> Add Absorouter Dragon
+Banish Chaos Dragon Levianeer ---> Reveal White Dragon Wyverburster ---> Add Ash Blossom & Joyous Spring
+Banish Chaos Dragon Levianeer ---> Reveal Nibiru, the Primal Being ---> Add Chaos Dragon Levianeer
+Banish Chaos Dragon Levianeer ---> Reveal Nibiru, the Primal Being ---> Add Effect Veiler
+Banish Chaos Dragon Levianeer ---> Reveal Nibiru, the Primal Being ---> Add White Dragon Wyverburster
+Banish Chaos Dragon Levianeer ---> Reveal Nibiru, the Primal Being ---> Add Starliege Seyfert
+Banish Fantastical Dragon Phantazmay ---> Reveal Skull Meister ---> Add Noctovision Dragon
+Banish Fantastical Dragon Phantazmay ---> Reveal Skull Meister ---> Add Chaos Dragon Levianeer
+Banish Fantastical Dragon Phantazmay ---> Reveal Skull Meister ---> Add Fantastical Dragon Phantazmay
+Banish Fantastical Dragon Phantazmay ---> Reveal Skull Meister ---> Add Starliege Seyfert
+Banish Fantastical Dragon Phantazmay ---> Reveal Skull Meister ---> Add Rokket Synchron
+Banish Fantastical Dragon Phantazmay ---> Reveal Skull Meister ---> Add Absorouter Dragon
+Banish Fantastical Dragon Phantazmay ---> Reveal Starliege Seyfert ---> Add Skull Meister
+Banish Fantastical Dragon Phantazmay ---> Reveal Starliege Seyfert ---> Add Noctovision Dragon
+Banish Fantastical Dragon Phantazmay ---> Reveal Starliege Seyfert ---> Add Fantastical Dragon Phantazmay
+Banish Fantastical Dragon Phantazmay ---> Reveal Starliege Seyfert ---> Add Nibiru, the Primal Being
+Banish Fantastical Dragon Phantazmay ---> Reveal Starliege Seyfert ---> Add Absorouter Dragon
+Banish Fantastical Dragon Phantazmay ---> Reveal Ash Blossom & Joyous Spring ---> Add Noctovision Dragon
+Banish Fantastical Dragon Phantazmay ---> Reveal Ash Blossom & Joyous Spring ---> Add Fantastical Dragon Phantazmay
+Banish Fantastical Dragon Phantazmay ---> Reveal Ash Blossom & Joyous Spring ---> Add Effect Veiler
+Banish Fantastical Dragon Phantazmay ---> Reveal Ash Blossom & Joyous Spring ---> Add White Dragon Wyverburster
+Banish Fantastical Dragon Phantazmay ---> Reveal Ash Blossom & Joyous Spring ---> Add Chamber Dragonmaid
+Banish Fantastical Dragon Phantazmay ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Synchron
+Banish Fantastical Dragon Phantazmay ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Recharger
+Banish Effect Veiler ---> Reveal Noctovision Dragon ---> Add Skull Meister
+Banish Effect Veiler ---> Reveal Noctovision Dragon ---> Add Effect Veiler
+Banish Effect Veiler ---> Reveal Noctovision Dragon ---> Add White Dragon Wyverburster
+Banish Effect Veiler ---> Reveal Noctovision Dragon ---> Add Starliege Seyfert
+Banish Effect Veiler ---> Reveal Noctovision Dragon ---> Add Ash Blossom & Joyous Spring
+Banish Effect Veiler ---> Reveal Chaos Dragon Levianeer ---> Add Skull Meister
+Banish Effect Veiler ---> Reveal Chaos Dragon Levianeer ---> Add Effect Veiler
+Banish Effect Veiler ---> Reveal Chaos Dragon Levianeer ---> Add White Dragon Wyverburster
+Banish Effect Veiler ---> Reveal Chaos Dragon Levianeer ---> Add Nibiru, the Primal Being
+Banish Effect Veiler ---> Reveal White Dragon Wyverburster ---> Add Noctovision Dragon
+Banish Effect Veiler ---> Reveal White Dragon Wyverburster ---> Add Chaos Dragon Levianeer
+Banish Effect Veiler ---> Reveal White Dragon Wyverburster ---> Add Effect Veiler
+Banish Effect Veiler ---> Reveal White Dragon Wyverburster ---> Add Rokket Synchron
+Banish Effect Veiler ---> Reveal White Dragon Wyverburster ---> Add Nibiru, the Primal Being
+Banish Effect Veiler ---> Reveal White Dragon Wyverburster ---> Add Absorouter Dragon
+Banish Effect Veiler ---> Reveal White Dragon Wyverburster ---> Add Ash Blossom & Joyous Spring
+Banish Effect Veiler ---> Reveal Rokket Recharger ---> Add Effect Veiler
+Banish Effect Veiler ---> Reveal Rokket Recharger ---> Add Ash Blossom & Joyous Spring
+Banish Effect Veiler ---> Reveal Nibiru, the Primal Being ---> Add Chaos Dragon Levianeer
+Banish Effect Veiler ---> Reveal Nibiru, the Primal Being ---> Add Effect Veiler
+Banish Effect Veiler ---> Reveal Nibiru, the Primal Being ---> Add White Dragon Wyverburster
+Banish Effect Veiler ---> Reveal Nibiru, the Primal Being ---> Add Starliege Seyfert
+Banish Effect Veiler ---> Reveal Ash Blossom & Joyous Spring ---> Add Noctovision Dragon
+Banish Effect Veiler ---> Reveal Ash Blossom & Joyous Spring ---> Add Fantastical Dragon Phantazmay
+Banish Effect Veiler ---> Reveal Ash Blossom & Joyous Spring ---> Add Effect Veiler
+Banish Effect Veiler ---> Reveal Ash Blossom & Joyous Spring ---> Add White Dragon Wyverburster
+Banish Effect Veiler ---> Reveal Ash Blossom & Joyous Spring ---> Add Chamber Dragonmaid
+Banish Effect Veiler ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Synchron
+Banish Effect Veiler ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Recharger
+Banish White Dragon Wyverburster ---> Reveal Noctovision Dragon ---> Add Skull Meister
+Banish White Dragon Wyverburster ---> Reveal Noctovision Dragon ---> Add Effect Veiler
+Banish White Dragon Wyverburster ---> Reveal Noctovision Dragon ---> Add White Dragon Wyverburster
+Banish White Dragon Wyverburster ---> Reveal Noctovision Dragon ---> Add Starliege Seyfert
+Banish White Dragon Wyverburster ---> Reveal Noctovision Dragon ---> Add Ash Blossom & Joyous Spring
+Banish White Dragon Wyverburster ---> Reveal Chaos Dragon Levianeer ---> Add Skull Meister
+Banish White Dragon Wyverburster ---> Reveal Chaos Dragon Levianeer ---> Add Effect Veiler
+Banish White Dragon Wyverburster ---> Reveal Chaos Dragon Levianeer ---> Add White Dragon Wyverburster
+Banish White Dragon Wyverburster ---> Reveal Chaos Dragon Levianeer ---> Add Nibiru, the Primal Being
+Banish White Dragon Wyverburster ---> Reveal Effect Veiler ---> Add Noctovision Dragon
+Banish White Dragon Wyverburster ---> Reveal Effect Veiler ---> Add Chaos Dragon Levianeer
+Banish White Dragon Wyverburster ---> Reveal Effect Veiler ---> Add White Dragon Wyverburster
+Banish White Dragon Wyverburster ---> Reveal Effect Veiler ---> Add Rokket Recharger
+Banish White Dragon Wyverburster ---> Reveal Effect Veiler ---> Add Nibiru, the Primal Being
+Banish White Dragon Wyverburster ---> Reveal Effect Veiler ---> Add Ash Blossom & Joyous Spring
+Banish White Dragon Wyverburster ---> Reveal Rokket Synchron ---> Add Skull Meister
+Banish White Dragon Wyverburster ---> Reveal Rokket Synchron ---> Add White Dragon Wyverburster
+Banish White Dragon Wyverburster ---> Reveal Rokket Synchron ---> Add Ash Blossom & Joyous Spring
+Banish White Dragon Wyverburster ---> Reveal Nibiru, the Primal Being ---> Add Chaos Dragon Levianeer
+Banish White Dragon Wyverburster ---> Reveal Nibiru, the Primal Being ---> Add Effect Veiler
+Banish White Dragon Wyverburster ---> Reveal Nibiru, the Primal Being ---> Add White Dragon Wyverburster
+Banish White Dragon Wyverburster ---> Reveal Nibiru, the Primal Being ---> Add Starliege Seyfert
+Banish White Dragon Wyverburster ---> Reveal Absorouter Dragon ---> Add Skull Meister
+Banish White Dragon Wyverburster ---> Reveal Absorouter Dragon ---> Add White Dragon Wyverburster
+Banish White Dragon Wyverburster ---> Reveal Absorouter Dragon ---> Add Starliege Seyfert
+Banish White Dragon Wyverburster ---> Reveal Ash Blossom & Joyous Spring ---> Add Noctovision Dragon
+Banish White Dragon Wyverburster ---> Reveal Ash Blossom & Joyous Spring ---> Add Fantastical Dragon Phantazmay
+Banish White Dragon Wyverburster ---> Reveal Ash Blossom & Joyous Spring ---> Add Effect Veiler
+Banish White Dragon Wyverburster ---> Reveal Ash Blossom & Joyous Spring ---> Add White Dragon Wyverburster
+Banish White Dragon Wyverburster ---> Reveal Ash Blossom & Joyous Spring ---> Add Chamber Dragonmaid
+Banish White Dragon Wyverburster ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Synchron
+Banish White Dragon Wyverburster ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Recharger
+Banish Chamber Dragonmaid ---> Reveal Ash Blossom & Joyous Spring ---> Add Noctovision Dragon
+Banish Chamber Dragonmaid ---> Reveal Ash Blossom & Joyous Spring ---> Add Fantastical Dragon Phantazmay
+Banish Chamber Dragonmaid ---> Reveal Ash Blossom & Joyous Spring ---> Add Effect Veiler
+Banish Chamber Dragonmaid ---> Reveal Ash Blossom & Joyous Spring ---> Add White Dragon Wyverburster
+Banish Chamber Dragonmaid ---> Reveal Ash Blossom & Joyous Spring ---> Add Chamber Dragonmaid
+Banish Chamber Dragonmaid ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Synchron
+Banish Chamber Dragonmaid ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Recharger
+Banish Starliege Seyfert ---> Reveal Skull Meister ---> Add Noctovision Dragon
+Banish Starliege Seyfert ---> Reveal Skull Meister ---> Add Chaos Dragon Levianeer
+Banish Starliege Seyfert ---> Reveal Skull Meister ---> Add Fantastical Dragon Phantazmay
+Banish Starliege Seyfert ---> Reveal Skull Meister ---> Add Starliege Seyfert
+Banish Starliege Seyfert ---> Reveal Skull Meister ---> Add Rokket Synchron
+Banish Starliege Seyfert ---> Reveal Skull Meister ---> Add Absorouter Dragon
+Banish Starliege Seyfert ---> Reveal Noctovision Dragon ---> Add Skull Meister
+Banish Starliege Seyfert ---> Reveal Noctovision Dragon ---> Add Effect Veiler
+Banish Starliege Seyfert ---> Reveal Noctovision Dragon ---> Add White Dragon Wyverburster
+Banish Starliege Seyfert ---> Reveal Noctovision Dragon ---> Add Starliege Seyfert
+Banish Starliege Seyfert ---> Reveal Noctovision Dragon ---> Add Ash Blossom & Joyous Spring
+Banish Starliege Seyfert ---> Reveal Fantastical Dragon Phantazmay ---> Add Skull Meister
+Banish Starliege Seyfert ---> Reveal Fantastical Dragon Phantazmay ---> Add Starliege Seyfert
+Banish Starliege Seyfert ---> Reveal Fantastical Dragon Phantazmay ---> Add Ash Blossom & Joyous Spring
+Banish Starliege Seyfert ---> Reveal Nibiru, the Primal Being ---> Add Chaos Dragon Levianeer
+Banish Starliege Seyfert ---> Reveal Nibiru, the Primal Being ---> Add Effect Veiler
+Banish Starliege Seyfert ---> Reveal Nibiru, the Primal Being ---> Add White Dragon Wyverburster
+Banish Starliege Seyfert ---> Reveal Nibiru, the Primal Being ---> Add Starliege Seyfert
+Banish Starliege Seyfert ---> Reveal Absorouter Dragon ---> Add Skull Meister
+Banish Starliege Seyfert ---> Reveal Absorouter Dragon ---> Add White Dragon Wyverburster
+Banish Starliege Seyfert ---> Reveal Absorouter Dragon ---> Add Starliege Seyfert
+Banish Rokket Synchron ---> Reveal Skull Meister ---> Add Noctovision Dragon
+Banish Rokket Synchron ---> Reveal Skull Meister ---> Add Chaos Dragon Levianeer
+Banish Rokket Synchron ---> Reveal Skull Meister ---> Add Fantastical Dragon Phantazmay
+Banish Rokket Synchron ---> Reveal Skull Meister ---> Add Starliege Seyfert
+Banish Rokket Synchron ---> Reveal Skull Meister ---> Add Rokket Synchron
+Banish Rokket Synchron ---> Reveal Skull Meister ---> Add Absorouter Dragon
+Banish Rokket Synchron ---> Reveal White Dragon Wyverburster ---> Add Noctovision Dragon
+Banish Rokket Synchron ---> Reveal White Dragon Wyverburster ---> Add Chaos Dragon Levianeer
+Banish Rokket Synchron ---> Reveal White Dragon Wyverburster ---> Add Effect Veiler
+Banish Rokket Synchron ---> Reveal White Dragon Wyverburster ---> Add Rokket Synchron
+Banish Rokket Synchron ---> Reveal White Dragon Wyverburster ---> Add Nibiru, the Primal Being
+Banish Rokket Synchron ---> Reveal White Dragon Wyverburster ---> Add Absorouter Dragon
+Banish Rokket Synchron ---> Reveal White Dragon Wyverburster ---> Add Ash Blossom & Joyous Spring
+Banish Rokket Synchron ---> Reveal Ash Blossom & Joyous Spring ---> Add Noctovision Dragon
+Banish Rokket Synchron ---> Reveal Ash Blossom & Joyous Spring ---> Add Fantastical Dragon Phantazmay
+Banish Rokket Synchron ---> Reveal Ash Blossom & Joyous Spring ---> Add Effect Veiler
+Banish Rokket Synchron ---> Reveal Ash Blossom & Joyous Spring ---> Add White Dragon Wyverburster
+Banish Rokket Synchron ---> Reveal Ash Blossom & Joyous Spring ---> Add Chamber Dragonmaid
+Banish Rokket Synchron ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Synchron
+Banish Rokket Synchron ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Recharger
+Banish Rokket Recharger ---> Reveal Effect Veiler ---> Add Noctovision Dragon
+Banish Rokket Recharger ---> Reveal Effect Veiler ---> Add Chaos Dragon Levianeer
+Banish Rokket Recharger ---> Reveal Effect Veiler ---> Add White Dragon Wyverburster
+Banish Rokket Recharger ---> Reveal Effect Veiler ---> Add Rokket Recharger
+Banish Rokket Recharger ---> Reveal Effect Veiler ---> Add Nibiru, the Primal Being
+Banish Rokket Recharger ---> Reveal Effect Veiler ---> Add Ash Blossom & Joyous Spring
+Banish Rokket Recharger ---> Reveal Ash Blossom & Joyous Spring ---> Add Noctovision Dragon
+Banish Rokket Recharger ---> Reveal Ash Blossom & Joyous Spring ---> Add Fantastical Dragon Phantazmay
+Banish Rokket Recharger ---> Reveal Ash Blossom & Joyous Spring ---> Add Effect Veiler
+Banish Rokket Recharger ---> Reveal Ash Blossom & Joyous Spring ---> Add White Dragon Wyverburster
+Banish Rokket Recharger ---> Reveal Ash Blossom & Joyous Spring ---> Add Chamber Dragonmaid
+Banish Rokket Recharger ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Synchron
+Banish Rokket Recharger ---> Reveal Ash Blossom & Joyous Spring ---> Add Rokket Recharger
+Banish Nibiru, the Primal Being ---> Reveal Chaos Dragon Levianeer ---> Add Skull Meister
+Banish Nibiru, the Primal Being ---> Reveal Chaos Dragon Levianeer ---> Add Effect Veiler
+Banish Nibiru, the Primal Being ---> Reveal Chaos Dragon Levianeer ---> Add White Dragon Wyverburster
+Banish Nibiru, the Primal Being ---> Reveal Chaos Dragon Levianeer ---> Add Nibiru, the Primal Being
+Banish Nibiru, the Primal Being ---> Reveal Effect Veiler ---> Add Noctovision Dragon
+Banish Nibiru, the Primal Being ---> Reveal Effect Veiler ---> Add Chaos Dragon Levianeer
+Banish Nibiru, the Primal Being ---> Reveal Effect Veiler ---> Add White Dragon Wyverburster
+Banish Nibiru, the Primal Being ---> Reveal Effect Veiler ---> Add Rokket Recharger
+Banish Nibiru, the Primal Being ---> Reveal Effect Veiler ---> Add Nibiru, the Primal Being
+Banish Nibiru, the Primal Being ---> Reveal Effect Veiler ---> Add Ash Blossom & Joyous Spring
+Banish Nibiru, the Primal Being ---> Reveal White Dragon Wyverburster ---> Add Noctovision Dragon
+Banish Nibiru, the Primal Being ---> Reveal White Dragon Wyverburster ---> Add Chaos Dragon Levianeer
+Banish Nibiru, the Primal Being ---> Reveal White Dragon Wyverburster ---> Add Effect Veiler
+Banish Nibiru, the Primal Being ---> Reveal White Dragon Wyverburster ---> Add Rokket Synchron
+Banish Nibiru, the Primal Being ---> Reveal White Dragon Wyverburster ---> Add Nibiru, the Primal Being
+Banish Nibiru, the Primal Being ---> Reveal White Dragon Wyverburster ---> Add Absorouter Dragon
+Banish Nibiru, the Primal Being ---> Reveal White Dragon Wyverburster ---> Add Ash Blossom & Joyous Spring
+Banish Nibiru, the Primal Being ---> Reveal Starliege Seyfert ---> Add Skull Meister
+Banish Nibiru, the Primal Being ---> Reveal Starliege Seyfert ---> Add Noctovision Dragon
+Banish Nibiru, the Primal Being ---> Reveal Starliege Seyfert ---> Add Fantastical Dragon Phantazmay
+Banish Nibiru, the Primal Being ---> Reveal Starliege Seyfert ---> Add Nibiru, the Primal Being
+Banish Nibiru, the Primal Being ---> Reveal Starliege Seyfert ---> Add Absorouter Dragon
+Banish Absorouter Dragon ---> Reveal Skull Meister ---> Add Noctovision Dragon
+Banish Absorouter Dragon ---> Reveal Skull Meister ---> Add Chaos Dragon Levianeer
+Banish Absorouter Dragon ---> Reveal Skull Meister ---> Add Fantastical Dragon Phantazmay
+Banish Absorouter Dragon ---> Reveal Skull Meister ---> Add Starliege Seyfert
+Banish Absorouter Dragon ---> Reveal Skull Meister ---> Add Rokket Synchron
+Banish Absorouter Dragon ---> Reveal Skull Meister ---> Add Absorouter Dragon
+Banish Absorouter Dragon ---> Reveal White Dragon Wyverburster ---> Add Noctovision Dragon
+Banish Absorouter Dragon ---> Reveal White Dragon Wyverburster ---> Add Chaos Dragon Levianeer
+Banish Absorouter Dragon ---> Reveal White Dragon Wyverburster ---> Add Effect Veiler
+Banish Absorouter Dragon ---> Reveal White Dragon Wyverburster ---> Add Rokket Synchron
+Banish Absorouter Dragon ---> Reveal White Dragon Wyverburster ---> Add Nibiru, the Primal Being
+Banish Absorouter Dragon ---> Reveal White Dragon Wyverburster ---> Add Absorouter Dragon
+Banish Absorouter Dragon ---> Reveal White Dragon Wyverburster ---> Add Ash Blossom & Joyous Spring
+Banish Absorouter Dragon ---> Reveal Starliege Seyfert ---> Add Skull Meister
+Banish Absorouter Dragon ---> Reveal Starliege Seyfert ---> Add Noctovision Dragon
+Banish Absorouter Dragon ---> Reveal Starliege Seyfert ---> Add Fantastical Dragon Phantazmay
+Banish Absorouter Dragon ---> Reveal Starliege Seyfert ---> Add Nibiru, the Primal Being
+Banish Absorouter Dragon ---> Reveal Starliege Seyfert ---> Add Absorouter Dragon
+Banish Ash Blossom & Joyous Spring ---> Reveal Noctovision Dragon ---> Add Skull Meister
+Banish Ash Blossom & Joyous Spring ---> Reveal Noctovision Dragon ---> Add Effect Veiler
+Banish Ash Blossom & Joyous Spring ---> Reveal Noctovision Dragon ---> Add White Dragon Wyverburster
+Banish Ash Blossom & Joyous Spring ---> Reveal Noctovision Dragon ---> Add Starliege Seyfert
+Banish Ash Blossom & Joyous Spring ---> Reveal Noctovision Dragon ---> Add Ash Blossom & Joyous Spring
+Banish Ash Blossom & Joyous Spring ---> Reveal Fantastical Dragon Phantazmay ---> Add Skull Meister
+Banish Ash Blossom & Joyous Spring ---> Reveal Fantastical Dragon Phantazmay ---> Add Starliege Seyfert
+Banish Ash Blossom & Joyous Spring ---> Reveal Fantastical Dragon Phantazmay ---> Add Ash Blossom & Joyous Spring
+Banish Ash Blossom & Joyous Spring ---> Reveal Effect Veiler ---> Add Noctovision Dragon
+Banish Ash Blossom & Joyous Spring ---> Reveal Effect Veiler ---> Add Chaos Dragon Levianeer
+Banish Ash Blossom & Joyous Spring ---> Reveal Effect Veiler ---> Add White Dragon Wyverburster
+Banish Ash Blossom & Joyous Spring ---> Reveal Effect Veiler ---> Add Rokket Recharger
+Banish Ash Blossom & Joyous Spring ---> Reveal Effect Veiler ---> Add Nibiru, the Primal Being
+Banish Ash Blossom & Joyous Spring ---> Reveal Effect Veiler ---> Add Ash Blossom & Joyous Spring
+Banish Ash Blossom & Joyous Spring ---> Reveal White Dragon Wyverburster ---> Add Noctovision Dragon
+Banish Ash Blossom & Joyous Spring ---> Reveal White Dragon Wyverburster ---> Add Chaos Dragon Levianeer
+Banish Ash Blossom & Joyous Spring ---> Reveal White Dragon Wyverburster ---> Add Effect Veiler
+Banish Ash Blossom & Joyous Spring ---> Reveal White Dragon Wyverburster ---> Add Rokket Synchron
+Banish Ash Blossom & Joyous Spring ---> Reveal White Dragon Wyverburster ---> Add Nibiru, the Primal Being
+Banish Ash Blossom & Joyous Spring ---> Reveal White Dragon Wyverburster ---> Add Absorouter Dragon
+Banish Ash Blossom & Joyous Spring ---> Reveal White Dragon Wyverburster ---> Add Ash Blossom & Joyous Spring
+Banish Ash Blossom & Joyous Spring ---> Reveal Chamber Dragonmaid ---> Add Ash Blossom & Joyous Spring
+Banish Ash Blossom & Joyous Spring ---> Reveal Rokket Synchron ---> Add Skull Meister
+Banish Ash Blossom & Joyous Spring ---> Reveal Rokket Synchron ---> Add White Dragon Wyverburster
+Banish Ash Blossom & Joyous Spring ---> Reveal Rokket Synchron ---> Add Ash Blossom & Joyous Spring
+Banish Ash Blossom & Joyous Spring ---> Reveal Rokket Recharger ---> Add Effect Veiler
+Banish Ash Blossom & Joyous Spring ---> Reveal Rokket Recharger ---> Add Ash Blossom & Joyous Spring
