@@ -60,3 +60,4 @@ for card in monsterbridges:
         for target in monsterbridges[key]:
             print(f"Banish {card} ---> Reveal {key} ---> Add {target}")
             f.write(f"Banish {card} ---> Reveal {key} ---> Add {target}\n" )
+f.close()
